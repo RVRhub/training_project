@@ -1,5 +1,5 @@
 
-###How to run
+### How to run
 
 Create war file(war file is created in target dir)
 
@@ -7,13 +7,13 @@ Create war file(war file is created in target dir)
   mvn install
 ``
 
-####IntelliJ Idea 
+#### IntelliJ Idea 
 
 See: 
 
 https://medium.com/@madhawacperera/how-to-run-debug-your-web-application-with-intellij-idea-and-tomcat-ea30c3d15ba0
 
-###Welcome Page
+### Welcome Page
 
 Welcome page JSP:
 
